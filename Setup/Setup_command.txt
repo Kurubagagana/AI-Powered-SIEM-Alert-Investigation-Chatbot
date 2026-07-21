@@ -1,0 +1,89 @@
+# Clone repository
+git clone https://github.com/Kurubagagana/AI-Powered-SIEM-Alert-Investigation-Chatbot.git
+
+# Move into project directory
+cd AI-Powered-SIEM-Alert-Investigation-Chatbot
+
+# Check project files
+ls
+
+# Check Python version
+python --version
+
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment (Windows)
+venv\Scripts\activate
+
+# Activate virtual environment (Linux/Mac)
+source venv/bin/activate
+
+# Install project dependencies
+pip install -r requirements.txt
+
+# Check installed Python packages
+pip list
+
+# Create environment configuration file
+touch .env
+
+# Run Flask SIEM application
+python app.py
+
+# Run application in debug mode (optional)
+python -m flask run
+
+# Check running Flask server
+http://127.0.0.1:5000
+
+
+# Git commands for project updates
+
+# Check modified files
+git status
+
+# Add all changes
+git add .
+
+# Commit changes
+git commit -m "Update SIEM chatbot features"
+
+# Push changes to GitHub
+git push
+
+
+# Testing commands
+
+# Run AI investigation tests
+python test_ai.py
+
+# Run alert detection tests
+python test_alerts.py
+
+# Run LLM integration tests
+python test_llm.py
+
+# Run parser tests
+python test_parser.py
+
+# Run SIEM engine tests
+python test_siem.py
+
+# Run Splunk API tests
+python test_splunk.py
+
+# Run Wazuh API tests
+python test_wazuh.py
+
+
+# API and service checks
+
+# Test Flask API endpoints
+curl http://127.0.0.1:5000
+
+# Check running Python processes
+ps aux | grep python
+
+# Stop Flask application
+CTRL + C
