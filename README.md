@@ -173,7 +173,7 @@ These activities generate alerts that are collected, analyzed, and investigated 
 # ⚙️ Setup & Execution
 For complete setup instructions and commands, refer to:
 
-📂 [setup/commands.txt](setup/commands.txt)
+📂 [Setup_commands.txt](Setup_commands.txt)
 
 
 ---
