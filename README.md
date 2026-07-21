@@ -249,4 +249,4 @@ Cyber Security Graduate | SOC Analyst Aspirant
 https://github.com/Kurubagagana
 
 🔗 LinkedIn:
-
+https://www.linkedin.com/in/gaganakuruba
