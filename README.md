@@ -93,8 +93,6 @@ The objective is to reduce manual SOC analyst workload by automating repetitive 
 
 # 📸 Project Screenshots
 
-(Add dashboard, Wazuh alerts, Splunk dashboards, and chatbot screenshots here)
-
 ---
 
 # ⚙️ Implementation
